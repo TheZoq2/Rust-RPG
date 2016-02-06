@@ -1,0 +1,7 @@
+[package]
+name = "rpg"
+version = "0.1.0"
+authors = ["Frans Skarman <frans.skarman@gmail.com>"]
+
+[dependencies]
+rand = "0.3"
